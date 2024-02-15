@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пользователь\\Desktop\\GeekBrains\\C#\\LESSON1\\Task4\\Task4.csproj": {}
+    "C:\\Users\\Пользователь\\Desktop\\GeekBrains\\CSHARP\\Lesson1C#\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пользователь\\Desktop\\GeekBrains\\C#\\LESSON1\\Task4\\Task4.csproj": {
+    "C:\\Users\\Пользователь\\Desktop\\GeekBrains\\CSHARP\\Lesson1C#\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\GeekBrains\\C#\\LESSON1\\Task4\\Task4.csproj",
+        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\GeekBrains\\CSHARP\\Lesson1C#\\Task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "C:\\Users\\Пользователь\\Desktop\\GeekBrains\\C#\\LESSON1\\Task4\\Task4.csproj",
+        "projectPath": "C:\\Users\\Пользователь\\Desktop\\GeekBrains\\CSHARP\\Lesson1C#\\Task4\\Task4.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пользователь\\Desktop\\GeekBrains\\C#\\LESSON1\\Task4\\obj\\",
+        "outputPath": "C:\\Users\\Пользователь\\Desktop\\GeekBrains\\CSHARP\\Lesson1C#\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"

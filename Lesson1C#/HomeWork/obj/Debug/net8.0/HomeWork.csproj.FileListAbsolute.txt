@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\bin\Debug\net8.0\HomeWork.exe
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\bin\Debug\net8.0\HomeWork.deps.json
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\bin\Debug\net8.0\HomeWork.runtimeconfig.json
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\bin\Debug\net8.0\HomeWork.dll
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\bin\Debug\net8.0\HomeWork.pdb
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\obj\Debug\net8.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\obj\Debug\net8.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\obj\Debug\net8.0\HomeWork.sourcelink.json
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\obj\Debug\net8.0\HomeWork.dll
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\obj\Debug\net8.0\refint\HomeWork.dll
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\obj\Debug\net8.0\HomeWork.pdb
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\obj\Debug\net8.0\HomeWork.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\GeekBrains\CSHARP\Lesson1C#\HomeWork\obj\Debug\net8.0\ref\HomeWork.dll
